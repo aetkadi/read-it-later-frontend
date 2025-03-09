@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a team project for the course ITI0302 Veebirakenduse projekt at TalTech. The creators are Aet-Kadi Kald, Karoliina Kannik and Faina Dõmša. This is a frontend application built with Vue.js. This README will guide you through the steps to .
+This is a team project for the course ITI0302 Veebirakenduse projekt at TalTech. The creators are Aet-Kadi Kald, Karoliina Kannik and Faina Dõmša. This is a frontend application built with Vue.js. This README will guide you through the steps to run the application.
 
 ## Project introduction
 
